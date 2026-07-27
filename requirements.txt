@@ -1,0 +1,6 @@
+please install these packages to ensure your code works!
+
+pandas
+numpy
+matplotlib
+ipykernel
