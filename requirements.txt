@@ -1,0 +1,3 @@
+# please install these packages to ensure your code works!
+
+pip install pandas numpy matplotlib ipykernel seaborn
